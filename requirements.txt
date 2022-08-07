@@ -15,7 +15,7 @@ Mako==1.1.4
 MarkupSafe==2.1.1
 psycopg2==2.9.1
 psycopg2-binary==2.9.1
-python-deteutil==2.8.2
+python-deteutil==none
 python-editor==1.0.4
 six==1.16.0
 SQLAlchemy==1.4.22
